@@ -1,7 +1,7 @@
 # Banking Domain Analytics Project
 ## Project Overview
 Problem Statement
-The goal of this project is to develop a practical understanding of risk analytics in the banking and financial services sector. The objective is to use available customer data to minimize the risk of financial loss due to lending by identifying patterns and indicators of repayment behavior. This enables financial institutions to make informed decisions on loan approvals, reducing default rates.
+The goal of this project is to develop a practical understanding of Loan analytics in the banking and financial services sector. The objective is to use available customer data to minimize the risk of financial loss due to lending by identifying patterns and indicators of repayment behavior. This enables financial institutions to make informed decisions on loan approvals, reducing default rates.
 
 ## Solution Approach
 The project is structured into two major components:
